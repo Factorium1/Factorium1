@@ -37,8 +37,8 @@ I'm actively applying for development roles and use GitHub to showcase my skills
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WasabiNils&show_icons=true&theme=tokyonight&hide=prs" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WasabiNils&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Factorium1&show_icons=true&theme=tokyonight&hide=prs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Factorium1&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
