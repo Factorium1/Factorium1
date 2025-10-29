@@ -16,8 +16,8 @@ I'm currently a student with a passion for **web development** and **low-level p
 <!-- I'm actively applying for development roles and use GitHub to showcase my skills and projects. -->
 
 - 🛠️ Tech Stack: `Java`, `HTML/CSS`, `JavaScript`, `React`, `Tailwind CSS`
-- 🌐 Interested in: **Frontend**, **Web Applications**, and **Modern UI/UX**
-- 📚 Always learning something new – from high-level design to bare-metal code
+- 🌐 Interested in: **Frontend**, **Web Applications**, **Applications** and **Backend**
+- 📚 Always learning something new
 
 ---
 
