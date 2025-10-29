@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 Hi, I’m **Nils Müller**, //**Wasabi** 🌿  
-I'm currently a student with a passion for **web development** and **low-level programming**.  
+I'm currently a student with a passion for **web development** and **programming**.  
 <!-- I'm actively applying for development roles and use GitHub to showcase my skills and projects. -->
 
 - 🛠️ Tech Stack: `Java`, `HTML/CSS`, `JavaScript`, `React`, `Tailwind CSS`
